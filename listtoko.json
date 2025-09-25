@@ -1,12 +1,6 @@
 {
   "SENIN WEEK 1": [
     {
-      "storecode": "1YB8",
-      "storename": "ARIE LASUT MANADO [ALMA]",
-      "storebranch": "1YZ1",
-      "flagroute": "1Y14"
-    },
-    {
       "storecode": "1Y6H",
       "storename": "KOMBOS BARAT [KOBT]",
       "storebranch": "1YZ1",
@@ -170,67 +164,67 @@
     },
     {
       "storecode": "L075",
-      "storename": "JL. JEMB. SERONG [JBSR]",
+      "storename": " JL. JEMB. SERONG [JBSR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L113",
-      "storename": "NEGERI KATON [NGKN]",
+      "storename": " NEGERI KATON [NGKN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L112",
-      "storename": "MENGANDUNG SARI [MGSI]",
+      "storename": " MENGANDUNG SARI [MGSI]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L059",
-      "storename": "PUGUNG RAHARJO [PGRO]",
+      "storename": " PUGUNG RAHARJO [PGRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L543",
-      "storename": "IR. SUTAMI [IRS1]",
+      "storename": " IR. SUTAMI [IRS1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VK8",
-      "storename": "KSB SIDOREJO/F [KSSJ]",
+      "storename": " KSB SIDOREJO/F [KSSJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L106",
-      "storename": "PASAR SIDOREJO [PSSO]",
+      "storename": " PASAR SIDOREJO [PSSO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L388",
-      "storename": "SEKAMPUNG [SKPG]",
+      "storename": " SEKAMPUNG [SKPG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L480",
-      "storename": "BATANG HARI 2 [BTH2]",
+      "storename": " BATANG HARI 2 [BTH2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VU9",
-      "storename": "RAYA SEKAMPUNG [RSKU]",
+      "storename": " RAYA SEKAMPUNG [RSKU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -508,79 +502,79 @@
     },
     {
       "storecode": "L500",
-      "storename": "SUKADANA LAMTIM [SKL1]",
+      "storename": " SUKADANA LAMTIM [SKL1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN6",
-      "storename": "SUKADANA 2/F [SUKN]",
+      "storename": " SUKADANA 2/F [SUKN]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VL1",
-      "storename": "MATARAM MARGA [MRMG]",
+      "storename": " MATARAM MARGA [MRMG]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V05",
-      "storename": "SUKADANA TENGAH",
+      "storename": " SUKADANA TENGAH",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L473",
-      "storename": "PAKUAN AJI ( FRC )/F [PKA1]",
+      "storename": " PAKUAN AJI ( FRC )/F [PKA1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L086",
-      "storename": "PSR TRIDATU [PSDT]",
+      "storename": " PSR TRIDATU [PSDT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L065",
-      "storename": "WAY JEPARA [WJR]",
+      "storename": " WAY JEPARA [WJR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L481",
-      "storename": "WAY JEPARA 5 [WJP5]",
+      "storename": " WAY JEPARA 5 [WJP5]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L295",
-      "storename": "MERDEKA WAY JEPARA [MKWJ]",
+      "storename": " MERDEKA WAY JEPARA [MKWJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L386",
-      "storename": "WAY JEPARA 3 [WYJ3]",
+      "storename": " WAY JEPARA 3 [WYJ3]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V99",
-      "storename": "ADIREJO [ADJO]",
+      "storename": " ADIREJO [ADJO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L051",
-      "storename": "PEKALONGAN LPG [PKLN]",
+      "storename": " PEKALONGAN LPG [PKLN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -858,73 +852,73 @@
     },
     {
       "storecode": "1V58",
-      "storename": "TEMPURAN [TMPR]",
+      "storename": " TEMPURAN [TMPR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L037",
-      "storename": "GANJAR AGUNG [L_GJA]",
+      "storename": " GANJAR AGUNG [L_GJA]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L041",
-      "storename": "SOEKARNO HATTA - LPG [L_SRHT]",
+      "storename": " SOEKARNO HATTA - LPG [L_SRHT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L549",
-      "storename": "SOEKARNO HATTA 2 MTR [SH2M]",
+      "storename": " SOEKARNO HATTA 2 MTR [SH2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V88",
-      "storename": "SOEKARNO HATTA 3 MTR/F [SH3M]",
+      "storename": " SOEKARNO HATTA 3 MTR/F [SH3M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VD7",
-      "storename": "BUDI UTOMO [BDTM]",
+      "storename": " BUDI UTOMO [BDTM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L067",
-      "storename": "MARGOTOTO [MGTT]",
+      "storename": " MARGOTOTO [MGTT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L292",
-      "storename": "YOS SUDARSO METRO [YSRM]",
+      "storename": " YOS SUDARSO METRO [YSRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN8",
-      "storename": "YOS SUDARSO 2 METRO [YSSM]",
+      "storename": " YOS SUDARSO 2 METRO [YSSM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L047",
-      "storename": "JL.RIYACHUDU - LPG [L_RHU]",
+      "storename": " JL.RIYACHUDU - LPG [L_RHU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V93",
-      "storename": "JENSUD METRO [JSMT]",
+      "storename": " JENSUD METRO [JSMT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VV9",
-      "storename": "LINTAS GANJAR AGUNG/F [LAJAR]",
+      "storename": " LINTAS GANJAR AGUNG/F [LAJAR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -1190,73 +1184,73 @@
     },
     {
       "storecode": "L428",
-      "storename": "JEN-SUD BANDAR JAYA [JSBJ]",
+      "storename": " JEN-SUD BANDAR JAYA [JSBJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VO4",
-      "storename": "KSB MASJID ISTIQLAL/F [KMJI]",
+      "storename": " KSB MASJID ISTIQLAL/F [KMJI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L114",
-      "storename": "YUKUM JAYA [YMJY]",
+      "storename": " YUKUM JAYA [YMJY]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VS1",
-      "storename": "KSO YOGI MART/F [KSYM]",
+      "storename": " KSO YOGI MART/F [KSYM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L119",
-      "storename": "YUKUM JAYA 2 [YJY2]",
+      "storename": " YUKUM JAYA 2 [YJY2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L282",
-      "storename": "A YANI PONCOWATI [AYPC]",
+      "storename": " A YANI PONCOWATI [AYPC]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VR2",
-      "storename": "KSO FF MART/F [KSFM]",
+      "storename": " KSO FF MART/F [KSFM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V21",
-      "storename": "SEPUTIH JAYA [SPJY]",
+      "storename": " SEPUTIH JAYA [SPJY]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L107",
-      "storename": "GUNUNG SUGIH [GNSH]",
+      "storename": " GUNUNG SUGIH [GNSH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V35",
-      "storename": "PUNGGUR [PGGR]",
+      "storename": " PUNGGUR [PGGR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L025",
-      "storename": "RAYA PUNGGUR [L_RYPR]",
+      "storename": " RAYA PUNGGUR [L_RYPR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -1534,73 +1528,73 @@
     },
     {
       "storecode": "L024",
-      "storename": "A. YANI METRO [L_AYMT]",
+      "storename": " A. YANI METRO [L_AYMT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L335",
-      "storename": "A YANI 2 METRO [AY2M]",
+      "storename": " A YANI 2 METRO [AY2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L579",
-      "storename": "A. YANI 3 METRO FRC/F [A3MT]",
+      "storename": " A. YANI 3 METRO FRC/F [A3MT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V96",
-      "storename": "IRING MULYO [IRMO]",
+      "storename": " IRING MULYO [IRMO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VU4",
-      "storename": "KSO SPBU TEJOAGUNG/F [KPTJ]",
+      "storename": " KSO SPBU TEJOAGUNG/F [KPTJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM9",
-      "storename": "SUTAN SYAHRIR METRO [SSYR]",
+      "storename": " SUTAN SYAHRIR METRO [SSYR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L553",
-      "storename": "ALAMSYAH RPN 2 MTR [AR2M]",
+      "storename": " ALAMSYAH RPN 2 MTR [AR2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L564",
-      "storename": "ALAMSYAH RPN METRO/F [AHRM]",
+      "storename": " ALAMSYAH RPN METRO/F [AHRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L026",
-      "storename": "AH. NASUTION [L_AHN]",
+      "storename": " AH. NASUTION [L_AHN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L525",
-      "storename": "AH. NASUTION FRC/F [AHNF]",
+      "storename": " AH. NASUTION FRC/F [AHNF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VV8",
-      "storename": "BANJAR REJO/F [BANRE]",
+      "storename": " BANJAR REJO/F [BANRE]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -1842,73 +1836,73 @@
     },
     {
       "storecode": "1VU3",
-      "storename": "VETERAN METRO/F [VTRO]",
+      "storename": " VETERAN METRO/F [VTRO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L040",
-      "storename": "PATIMURA LAMPUNG [L_PTMR]",
+      "storename": " PATIMURA LAMPUNG [L_PTMR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VL8",
-      "storename": "PURWOSARI/F [PUSR]",
+      "storename": " PURWOSARI/F [PUSR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM8",
-      "storename": "PURWOASRI METRO [PWAI]",
+      "storename": " PURWOASRI METRO [PWAI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L289",
-      "storename": "DR SUTOMO METRO [DRSM]",
+      "storename": " DR SUTOMO METRO [DRSM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V61",
-      "storename": "DR. SUTOMO 2 METRO [DST2M]",
+      "storename": " DR. SUTOMO 2 METRO [DST2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L028",
-      "storename": "IMAM BONJOL [L_IMBL]",
+      "storename": " IMAM BONJOL [L_IMBL]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V85",
-      "storename": "IMAM BONJOL 2 METRO/F [IB2M]",
+      "storename": " IMAM BONJOL 2 METRO/F [IB2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L291",
-      "storename": "DIPONEGORO METRO [DPGM]",
+      "storename": " DIPONEGORO METRO [DPGM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L023",
-      "storename": "SUKARSO LAMPUNG [L_SKRO]",
+      "storename": " SUKARSO LAMPUNG [L_SKRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L052",
-      "storename": "RADEN INTAN LPG [RDIN]",
+      "storename": " RADEN INTAN LPG [RDIN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L446",
-      "storename": "WOLTER MONGINSIDIMTR [WMTR]",
+      "storename": " WOLTER MONGINSIDIMTR [WMTR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -2180,73 +2174,73 @@
     },
     {
       "storecode": "L054",
-      "storename": "KOTA GAJAH LPG [KGJH]",
+      "storename": " KOTA GAJAH LPG [KGJH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L082",
-      "storename": "KOTA GAJAH 2 [KGH2]",
+      "storename": " KOTA GAJAH 2 [KGH2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L100",
-      "storename": "KOTA GAJAH 3/F [KGH3]",
+      "storename": " KOTA GAJAH 3/F [KGH3]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V11",
-      "storename": "KOTA GAJAH 4 [KTG4]",
+      "storename": " KOTA GAJAH 4 [KTG4]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V53",
-      "storename": "RAMA INDERA [RAIRA]",
+      "storename": " RAMA INDERA [RAIRA]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L061",
-      "storename": "SEPUTIH RAHMAN [SPRN]",
+      "storename": " SEPUTIH RAHMAN [SPRN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V23",
-      "storename": "SEPUTIH RAMAN 2 [SPRM2]",
+      "storename": " SEPUTIH RAMAN 2 [SPRM2]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V55",
-      "storename": "SPBU SEPUTIH BANYAK/F [SPBUSB]",
+      "storename": " SPBU SEPUTIH BANYAK/F [SPBUSB]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L085",
-      "storename": "RY SEPUTIH BANYAK [RSB]",
+      "storename": " RY SEPUTIH BANYAK [RSB]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L072",
-      "storename": "SIMPANG RANDU [SPRU]",
+      "storename": " SIMPANG RANDU [SPRU]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VX8",
-      "storename": "REJO BASUKI",
+      "storename": " REJO BASUKI",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VW4",
-      "storename": "PURWOSARI LAMTIM [PWLA]",
+      "storename": " PURWOSARI LAMTIM [PWLA]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -2536,73 +2530,73 @@
     },
     {
       "storecode": "L276",
-      "storename": "SIMBAR WARINGIN/F [SBWG]",
+      "storename": " SIMBAR WARINGIN/F [SBWG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L079",
-      "storename": "ADILUWIH TANGGAMUS [ALWH]",
+      "storename": " ADILUWIH TANGGAMUS [ALWH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L095",
-      "storename": "BANDUNG BARU [BDBR]",
+      "storename": " BANDUNG BARU [BDBR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L609",
-      "storename": "WARINGIN SARI [WRSI]",
+      "storename": " WARINGIN SARI [WRSI]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L559",
-      "storename": "JL. KESEHATAN FRC/F [JKST]",
+      "storename": " JL. KESEHATAN FRC/F [JKST]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L728",
-      "storename": "KSB TRIMULYO/F [KS0M]",
+      "storename": " KSB TRIMULYO/F [KS0M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L720",
-      "storename": "KSB BANGUN SARI/F [KSBB]",
+      "storename": " KSB BANGUN SARI/F [KSBB]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VR5",
-      "storename": "RAYA SUKOHARJO/F [RYSU]",
+      "storename": " RAYA SUKOHARJO/F [RYSU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L672",
-      "storename": "SUKOHARJO I [SKHO]",
+      "storename": " SUKOHARJO I [SKHO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VY3",
-      "storename": "LINTAS TEMPURAN",
+      "storename": " LINTAS TEMPURAN",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L094",
-      "storename": "RY. TEGINENENG [RTNG]",
+      "storename": " RY. TEGINENENG [RTNG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L631",
-      "storename": "PANDAN SURAT [PDS1]",
+      "storename": " PANDAN SURAT [PDS1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -2892,73 +2886,73 @@
     },
     {
       "storecode": "1V58",
-      "storename": "TEMPURAN [TMPR]",
+      "storename": " TEMPURAN [TMPR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L037",
-      "storename": "GANJAR AGUNG [L_GJA]",
+      "storename": " GANJAR AGUNG [L_GJA]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L041",
-      "storename": "SOEKARNO HATTA - LPG [L_SRHT]",
+      "storename": " SOEKARNO HATTA - LPG [L_SRHT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L549",
-      "storename": "SOEKARNO HATTA 2 MTR [SH2M]",
+      "storename": " SOEKARNO HATTA 2 MTR [SH2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V88",
-      "storename": "SOEKARNO HATTA 3 MTR/F [SH3M]",
+      "storename": " SOEKARNO HATTA 3 MTR/F [SH3M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VD7",
-      "storename": "BUDI UTOMO [BDTM]",
+      "storename": " BUDI UTOMO [BDTM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L067",
-      "storename": "MARGOTOTO [MGTT]",
+      "storename": " MARGOTOTO [MGTT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L292",
-      "storename": "YOS SUDARSO METRO [YSRM]",
+      "storename": " YOS SUDARSO METRO [YSRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN8",
-      "storename": "YOS SUDARSO 2 METRO [YSSM]",
+      "storename": " YOS SUDARSO 2 METRO [YSSM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L047",
-      "storename": "JL.RIYACHUDU - LPG [L_RHU]",
+      "storename": " JL.RIYACHUDU - LPG [L_RHU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V93",
-      "storename": "JENSUD METRO [JSMT]",
+      "storename": " JENSUD METRO [JSMT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VV9",
-      "storename": "LINTAS GANJAR AGUNG/F [LAJAR]",
+      "storename": " LINTAS GANJAR AGUNG/F [LAJAR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -3248,73 +3242,73 @@
     },
     {
       "storecode": "L141",
-      "storename": "METRO WATES [MWTS]",
+      "storename": " METRO WATES [MWTS]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L178",
-      "storename": "RAYA WATES [RYWS]",
+      "storename": " RAYA WATES [RYWS]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VD6",
-      "storename": "AA MART/F [AMRT]",
+      "storename": " AA MART/F [AMRT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L252",
-      "storename": "GOTONG ROYONG [GTRG]",
+      "storename": " GOTONG ROYONG [GTRG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V59",
-      "storename": "BEKRI [BKRI]",
+      "storename": " BEKRI [BKRI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V15",
-      "storename": "PANGGUNGAN [PNGAN]",
+      "storename": " PANGGUNGAN [PNGAN]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L003",
-      "storename": "PROKLAMATOR [L_PLR]",
+      "storename": " PROKLAMATOR [L_PLR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L039",
-      "storename": "A. YANI 2 LAMPUNG [L_AYI2]",
+      "storename": " A. YANI 2 LAMPUNG [L_AYI2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V01",
-      "storename": "A YANI 2 LAMTENG [AY2L]",
+      "storename": " A YANI 2 LAMTENG [AY2L]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L190",
-      "storename": "SIMPANG AGUNG [SPAG]",
+      "storename": " SIMPANG AGUNG [SPAG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V27",
-      "storename": "DONO ARUM [DOAM]",
+      "storename": " DONO ARUM [DOAM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L487",
-      "storename": "PUJOKERTO FRC/F [PJKF]",
+      "storename": " PUJOKERTO FRC/F [PJKF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -3586,73 +3580,73 @@
     },
     {
       "storecode": "L024",
-      "storename": "A. YANI METRO [L_AYMT]",
+      "storename": " A. YANI METRO [L_AYMT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L335",
-      "storename": "A YANI 2 METRO [AY2M]",
+      "storename": " A YANI 2 METRO [AY2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L579",
-      "storename": "A. YANI 3 METRO FRC/F [A3MT]",
+      "storename": " A. YANI 3 METRO FRC/F [A3MT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V96",
-      "storename": "IRING MULYO [IRMO]",
+      "storename": " IRING MULYO [IRMO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VU4",
-      "storename": "KSO SPBU TEJOAGUNG/F [KPTJ]",
+      "storename": " KSO SPBU TEJOAGUNG/F [KPTJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM9",
-      "storename": "SUTAN SYAHRIR METRO [SSYR]",
+      "storename": " SUTAN SYAHRIR METRO [SSYR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L553",
-      "storename": "ALAMSYAH RPN 2 MTR [AR2M]",
+      "storename": " ALAMSYAH RPN 2 MTR [AR2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L564",
-      "storename": "ALAMSYAH RPN METRO/F [AHRM]",
+      "storename": " ALAMSYAH RPN METRO/F [AHRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L026",
-      "storename": "AH. NASUTION [L_AHN]",
+      "storename": " AH. NASUTION [L_AHN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L525",
-      "storename": "AH. NASUTION FRC/F [AHNF]",
+      "storename": " AH. NASUTION FRC/F [AHNF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VV8",
-      "storename": "BANJAR REJO/F [BANRE]",
+      "storename": " BANJAR REJO/F [BANRE]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -3888,73 +3882,73 @@
     },
     {
       "storecode": "1VU3",
-      "storename": "VETERAN METRO/F [VTRO]",
+      "storename": " VETERAN METRO/F [VTRO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L040",
-      "storename": "PATIMURA LAMPUNG [L_PTMR]",
+      "storename": " PATIMURA LAMPUNG [L_PTMR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VL8",
-      "storename": "PURWOSARI/F [PUSR]",
+      "storename": " PURWOSARI/F [PUSR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM8",
-      "storename": "PURWOASRI METRO [PWAI]",
+      "storename": " PURWOASRI METRO [PWAI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L289",
-      "storename": "DR SUTOMO METRO [DRSM]",
+      "storename": " DR SUTOMO METRO [DRSM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V61",
-      "storename": "DR. SUTOMO 2 METRO [DST2M]",
+      "storename": " DR. SUTOMO 2 METRO [DST2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L028",
-      "storename": "IMAM BONJOL [L_IMBL]",
+      "storename": " IMAM BONJOL [L_IMBL]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V85",
-      "storename": "IMAM BONJOL 2 METRO/F [IB2M]",
+      "storename": " IMAM BONJOL 2 METRO/F [IB2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L291",
-      "storename": "DIPONEGORO METRO [DPGM]",
+      "storename": " DIPONEGORO METRO [DPGM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L023",
-      "storename": "SUKARSO LAMPUNG [L_SKRO]",
+      "storename": " SUKARSO LAMPUNG [L_SKRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L052",
-      "storename": "RADEN INTAN LPG [RDIN]",
+      "storename": " RADEN INTAN LPG [RDIN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L446",
-      "storename": "WOLTER MONGINSIDIMTR [WMTR]",
+      "storename": " WOLTER MONGINSIDIMTR [WMTR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -4214,67 +4208,67 @@
     },
     {
       "storecode": "L075",
-      "storename": "JL. JEMB. SERONG [JBSR]",
+      "storename": " JL. JEMB. SERONG [JBSR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L113",
-      "storename": "NEGERI KATON [NGKN]",
+      "storename": " NEGERI KATON [NGKN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L112",
-      "storename": "MENGANDUNG SARI [MGSI]",
+      "storename": " MENGANDUNG SARI [MGSI]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L059",
-      "storename": "PUGUNG RAHARJO [PGRO]",
+      "storename": " PUGUNG RAHARJO [PGRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L543",
-      "storename": "IR. SUTAMI [IRS1]",
+      "storename": " IR. SUTAMI [IRS1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VK8",
-      "storename": "KSB SIDOREJO/F [KSSJ]",
+      "storename": " KSB SIDOREJO/F [KSSJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L106",
-      "storename": "PASAR SIDOREJO [PSSO]",
+      "storename": " PASAR SIDOREJO [PSSO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L388",
-      "storename": "SEKAMPUNG [SKPG]",
+      "storename": " SEKAMPUNG [SKPG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L480",
-      "storename": "BATANG HARI 2 [BTH2]",
+      "storename": " BATANG HARI 2 [BTH2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VU9",
-      "storename": "RAYA SEKAMPUNG [RSKU]",
+      "storename": " RAYA SEKAMPUNG [RSKU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -4534,79 +4528,79 @@
     },
     {
       "storecode": "L500",
-      "storename": "SUKADANA LAMTIM [SKL1]",
+      "storename": " SUKADANA LAMTIM [SKL1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN6",
-      "storename": "SUKADANA 2/F [SUKN]",
+      "storename": " SUKADANA 2/F [SUKN]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VL1",
-      "storename": "MATARAM MARGA [MRMG]",
+      "storename": " MATARAM MARGA [MRMG]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V05",
-      "storename": "SUKADANA TENGAH",
+      "storename": " SUKADANA TENGAH",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L473",
-      "storename": "PAKUAN AJI ( FRC )/F [PKA1]",
+      "storename": " PAKUAN AJI ( FRC )/F [PKA1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L086",
-      "storename": "PSR TRIDATU [PSDT]",
+      "storename": " PSR TRIDATU [PSDT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L065",
-      "storename": "WAY JEPARA [WJR]",
+      "storename": " WAY JEPARA [WJR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L481",
-      "storename": "WAY JEPARA 5 [WJP5]",
+      "storename": " WAY JEPARA 5 [WJP5]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L295",
-      "storename": "MERDEKA WAY JEPARA [MKWJ]",
+      "storename": " MERDEKA WAY JEPARA [MKWJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L386",
-      "storename": "WAY JEPARA 3 [WYJ3]",
+      "storename": " WAY JEPARA 3 [WYJ3]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V99",
-      "storename": "ADIREJO [ADJO]",
+      "storename": " ADIREJO [ADJO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L051",
-      "storename": "PEKALONGAN LPG [PKLN]",
+      "storename": " PEKALONGAN LPG [PKLN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -4860,73 +4854,73 @@
     },
     {
       "storecode": "1V58",
-      "storename": "TEMPURAN [TMPR]",
+      "storename": " TEMPURAN [TMPR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L037",
-      "storename": "GANJAR AGUNG [L_GJA]",
+      "storename": " GANJAR AGUNG [L_GJA]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L041",
-      "storename": "SOEKARNO HATTA - LPG [L_SRHT]",
+      "storename": " SOEKARNO HATTA - LPG [L_SRHT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L549",
-      "storename": "SOEKARNO HATTA 2 MTR [SH2M]",
+      "storename": " SOEKARNO HATTA 2 MTR [SH2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V88",
-      "storename": "SOEKARNO HATTA 3 MTR/F [SH3M]",
+      "storename": " SOEKARNO HATTA 3 MTR/F [SH3M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VD7",
-      "storename": "BUDI UTOMO [BDTM]",
+      "storename": " BUDI UTOMO [BDTM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L067",
-      "storename": "MARGOTOTO [MGTT]",
+      "storename": " MARGOTOTO [MGTT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L292",
-      "storename": "YOS SUDARSO METRO [YSRM]",
+      "storename": " YOS SUDARSO METRO [YSRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN8",
-      "storename": "YOS SUDARSO 2 METRO [YSSM]",
+      "storename": " YOS SUDARSO 2 METRO [YSSM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L047",
-      "storename": "JL.RIYACHUDU - LPG [L_RHU]",
+      "storename": " JL.RIYACHUDU - LPG [L_RHU]",
       "storebranch": "1VZ1",
-      "flagroute": "1V93"
+      "flagroute": "L609"
     },
     {
       "storecode": "1V93",
-      "storename": "JENSUD METRO [JSMT]",
+      "storename": " JENSUD METRO [JSMT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VV9",
-      "storename": "LINTAS GANJAR AGUNG/F [LAJAR]",
+      "storename": " LINTAS GANJAR AGUNG/F [LAJAR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -5192,73 +5186,73 @@
     },
     {
       "storecode": "L428",
-      "storename": "JEN-SUD BANDAR JAYA [JSBJ]",
+      "storename": " JEN-SUD BANDAR JAYA [JSBJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VO4",
-      "storename": "KSB MASJID ISTIQLAL/F [KMJI]",
+      "storename": " KSB MASJID ISTIQLAL/F [KMJI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L114",
-      "storename": "YUKUM JAYA [YMJY]",
+      "storename": " YUKUM JAYA [YMJY]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VS1",
-      "storename": "KSO YOGI MART/F [KSYM]",
+      "storename": " KSO YOGI MART/F [KSYM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L119",
-      "storename": "YUKUM JAYA 2 [YJY2]",
+      "storename": " YUKUM JAYA 2 [YJY2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L282",
-      "storename": "A YANI PONCOWATI [AYPC]",
+      "storename": " A YANI PONCOWATI [AYPC]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VR2",
-      "storename": "KSO FF MART/F [KSFM]",
+      "storename": " KSO FF MART/F [KSFM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V21",
-      "storename": "SEPUTIH JAYA [SPJY]",
+      "storename": " SEPUTIH JAYA [SPJY]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L107",
-      "storename": "GUNUNG SUGIH [GNSH]",
+      "storename": " GUNUNG SUGIH [GNSH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V35",
-      "storename": "PUNGGUR [PGGR]",
+      "storename": " PUNGGUR [PGGR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L025",
-      "storename": "RAYA PUNGGUR [L_RYPR]",
+      "storename": " RAYA PUNGGUR [L_RYPR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -5536,73 +5530,73 @@
     },
     {
       "storecode": "L024",
-      "storename": "A. YANI METRO [L_AYMT]",
+      "storename": " A. YANI METRO [L_AYMT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L335",
-      "storename": "A YANI 2 METRO [AY2M]",
+      "storename": " A YANI 2 METRO [AY2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L579",
-      "storename": "A. YANI 3 METRO FRC/F [A3MT]",
+      "storename": " A. YANI 3 METRO FRC/F [A3MT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V96",
-      "storename": "IRING MULYO [IRMO]",
+      "storename": " IRING MULYO [IRMO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VU4",
-      "storename": "KSO SPBU TEJOAGUNG/F [KPTJ]",
+      "storename": " KSO SPBU TEJOAGUNG/F [KPTJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM9",
-      "storename": "SUTAN SYAHRIR METRO [SSYR]",
+      "storename": " SUTAN SYAHRIR METRO [SSYR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L553",
-      "storename": "ALAMSYAH RPN 2 MTR [AR2M]",
+      "storename": " ALAMSYAH RPN 2 MTR [AR2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L564",
-      "storename": "ALAMSYAH RPN METRO/F [AHRM]",
+      "storename": " ALAMSYAH RPN METRO/F [AHRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L026",
-      "storename": "AH. NASUTION [L_AHN]",
+      "storename": " AH. NASUTION [L_AHN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L525",
-      "storename": "AH. NASUTION FRC/F [AHNF]",
+      "storename": " AH. NASUTION FRC/F [AHNF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VV8",
-      "storename": "BANJAR REJO/F [BANRE]",
+      "storename": " BANJAR REJO/F [BANRE]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -5844,73 +5838,73 @@
     },
     {
       "storecode": "1VU3",
-      "storename": "VETERAN METRO/F [VTRO]",
+      "storename": " VETERAN METRO/F [VTRO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L040",
-      "storename": "PATIMURA LAMPUNG [L_PTMR]",
+      "storename": " PATIMURA LAMPUNG [L_PTMR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VL8",
-      "storename": "PURWOSARI/F [PUSR]",
+      "storename": " PURWOSARI/F [PUSR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM8",
-      "storename": "PURWOASRI METRO [PWAI]",
+      "storename": " PURWOASRI METRO [PWAI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L289",
-      "storename": "DR SUTOMO METRO [DRSM]",
+      "storename": " DR SUTOMO METRO [DRSM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V61",
-      "storename": "DR. SUTOMO 2 METRO [DST2M]",
+      "storename": " DR. SUTOMO 2 METRO [DST2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L028",
-      "storename": "IMAM BONJOL [L_IMBL]",
+      "storename": " IMAM BONJOL [L_IMBL]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V85",
-      "storename": "IMAM BONJOL 2 METRO/F [IB2M]",
+      "storename": " IMAM BONJOL 2 METRO/F [IB2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L291",
-      "storename": "DIPONEGORO METRO [DPGM]",
+      "storename": " DIPONEGORO METRO [DPGM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L023",
-      "storename": "SUKARSO LAMPUNG [L_SKRO]",
+      "storename": " SUKARSO LAMPUNG [L_SKRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L052",
-      "storename": "RADEN INTAN LPG [RDIN]",
+      "storename": " RADEN INTAN LPG [RDIN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L446",
-      "storename": "WOLTER MONGINSIDIMTR [WMTR]",
+      "storename": " WOLTER MONGINSIDIMTR [WMTR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -6182,73 +6176,73 @@
     },
     {
       "storecode": "L054",
-      "storename": "KOTA GAJAH LPG [KGJH]",
+      "storename": " KOTA GAJAH LPG [KGJH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L082",
-      "storename": "KOTA GAJAH 2 [KGH2]",
+      "storename": " KOTA GAJAH 2 [KGH2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L100",
-      "storename": "KOTA GAJAH 3/F [KGH3]",
+      "storename": " KOTA GAJAH 3/F [KGH3]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V11",
-      "storename": "KOTA GAJAH 4 [KTG4]",
+      "storename": " KOTA GAJAH 4 [KTG4]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V53",
-      "storename": "RAMA INDERA [RAIRA]",
+      "storename": " RAMA INDERA [RAIRA]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L061",
-      "storename": "SEPUTIH RAHMAN [SPRN]",
+      "storename": " SEPUTIH RAHMAN [SPRN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V23",
-      "storename": "SEPUTIH RAMAN 2 [SPRM2]",
+      "storename": " SEPUTIH RAMAN 2 [SPRM2]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V55",
-      "storename": "SPBU SEPUTIH BANYAK/F [SPBUSB]",
+      "storename": " SPBU SEPUTIH BANYAK/F [SPBUSB]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L085",
-      "storename": "RY SEPUTIH BANYAK [RSB]",
+      "storename": " RY SEPUTIH BANYAK [RSB]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L072",
-      "storename": "SIMPANG RANDU [SPRU]",
+      "storename": " SIMPANG RANDU [SPRU]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VX8",
-      "storename": "REJO BASUKI",
+      "storename": " REJO BASUKI",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VW4",
-      "storename": "PURWOSARI LAMTIM [PWLA]",
+      "storename": " PURWOSARI LAMTIM [PWLA]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -6532,73 +6526,73 @@
     },
     {
       "storecode": "L276",
-      "storename": "SIMBAR WARINGIN/F [SBWG]",
+      "storename": " SIMBAR WARINGIN/F [SBWG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L079",
-      "storename": "ADILUWIH TANGGAMUS [ALWH]",
+      "storename": " ADILUWIH TANGGAMUS [ALWH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L095",
-      "storename": "BANDUNG BARU [BDBR]",
+      "storename": " BANDUNG BARU [BDBR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L609",
-      "storename": "WARINGIN SARI [WRSI]",
+      "storename": " WARINGIN SARI [WRSI]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L559",
-      "storename": "JL. KESEHATAN FRC/F [JKST]",
+      "storename": " JL. KESEHATAN FRC/F [JKST]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L728",
-      "storename": "KSB TRIMULYO/F [KS0M]",
+      "storename": " KSB TRIMULYO/F [KS0M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L720",
-      "storename": "KSB BANGUN SARI/F [KSBB]",
+      "storename": " KSB BANGUN SARI/F [KSBB]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VR5",
-      "storename": "RAYA SUKOHARJO/F [RYSU]",
+      "storename": " RAYA SUKOHARJO/F [RYSU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L672",
-      "storename": "SUKOHARJO I [SKHO]",
+      "storename": " SUKOHARJO I [SKHO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VY3",
-      "storename": "LINTAS TEMPURAN",
+      "storename": " LINTAS TEMPURAN",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L094",
-      "storename": "RY. TEGINENENG [RTNG]",
+      "storename": " RY. TEGINENENG [RTNG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L631",
-      "storename": "PANDAN SURAT [PDS1]",
+      "storename": " PANDAN SURAT [PDS1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -6882,73 +6876,73 @@
     },
     {
       "storecode": "1V58",
-      "storename": "TEMPURAN [TMPR]",
+      "storename": " TEMPURAN [TMPR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L037",
-      "storename": "GANJAR AGUNG [L_GJA]",
+      "storename": " GANJAR AGUNG [L_GJA]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L041",
-      "storename": "SOEKARNO HATTA - LPG [L_SRHT]",
+      "storename": " SOEKARNO HATTA - LPG [L_SRHT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L549",
-      "storename": "SOEKARNO HATTA 2 MTR [SH2M]",
+      "storename": " SOEKARNO HATTA 2 MTR [SH2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V88",
-      "storename": "SOEKARNO HATTA 3 MTR/F [SH3M]",
+      "storename": " SOEKARNO HATTA 3 MTR/F [SH3M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VD7",
-      "storename": "BUDI UTOMO [BDTM]",
+      "storename": " BUDI UTOMO [BDTM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L067",
-      "storename": "MARGOTOTO [MGTT]",
+      "storename": " MARGOTOTO [MGTT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L292",
-      "storename": "YOS SUDARSO METRO [YSRM]",
+      "storename": " YOS SUDARSO METRO [YSRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN8",
-      "storename": "YOS SUDARSO 2 METRO [YSSM]",
+      "storename": " YOS SUDARSO 2 METRO [YSSM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L047",
-      "storename": "JL.RIYACHUDU - LPG [L_RHU]",
+      "storename": " JL.RIYACHUDU - LPG [L_RHU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V93",
-      "storename": "JENSUD METRO [JSMT]",
+      "storename": " JENSUD METRO [JSMT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VV9",
-      "storename": "LINTAS GANJAR AGUNG/F [LAJAR]",
+      "storename": " LINTAS GANJAR AGUNG/F [LAJAR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -7238,73 +7232,73 @@
     },
     {
       "storecode": "L141",
-      "storename": "METRO WATES [MWTS]",
+      "storename": " METRO WATES [MWTS]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L178",
-      "storename": "RAYA WATES [RYWS]",
+      "storename": " RAYA WATES [RYWS]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VD6",
-      "storename": "AA MART/F [AMRT]",
+      "storename": " AA MART/F [AMRT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L252",
-      "storename": "GOTONG ROYONG [GTRG]",
+      "storename": " GOTONG ROYONG [GTRG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V59",
-      "storename": "BEKRI [BKRI]",
+      "storename": " BEKRI [BKRI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V15",
-      "storename": "PANGGUNGAN [PNGAN]",
+      "storename": " PANGGUNGAN [PNGAN]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L003",
-      "storename": "PROKLAMATOR [L_PLR]",
+      "storename": " PROKLAMATOR [L_PLR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L039",
-      "storename": "A. YANI 2 LAMPUNG [L_AYI2]",
+      "storename": " A. YANI 2 LAMPUNG [L_AYI2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V01",
-      "storename": "A YANI 2 LAMTENG [AY2L]",
+      "storename": " A YANI 2 LAMTENG [AY2L]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L190",
-      "storename": "SIMPANG AGUNG [SPAG]",
+      "storename": " SIMPANG AGUNG [SPAG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V27",
-      "storename": "DONO ARUM [DOAM]",
+      "storename": " DONO ARUM [DOAM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L487",
-      "storename": "PUJOKERTO FRC/F [PJKF]",
+      "storename": " PUJOKERTO FRC/F [PJKF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -7582,73 +7576,73 @@
     },
     {
       "storecode": "L024",
-      "storename": "A. YANI METRO [L_AYMT]",
+      "storename": " A. YANI METRO [L_AYMT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L335",
-      "storename": "A YANI 2 METRO [AY2M]",
+      "storename": " A YANI 2 METRO [AY2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L579",
-      "storename": "A. YANI 3 METRO FRC/F [A3MT]",
+      "storename": " A. YANI 3 METRO FRC/F [A3MT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V96",
-      "storename": "IRING MULYO [IRMO]",
+      "storename": " IRING MULYO [IRMO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VU4",
-      "storename": "KSO SPBU TEJOAGUNG/F [KPTJ]",
+      "storename": " KSO SPBU TEJOAGUNG/F [KPTJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM9",
-      "storename": "SUTAN SYAHRIR METRO [SSYR]",
+      "storename": " SUTAN SYAHRIR METRO [SSYR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L553",
-      "storename": "ALAMSYAH RPN 2 MTR [AR2M]",
+      "storename": " ALAMSYAH RPN 2 MTR [AR2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L564",
-      "storename": "ALAMSYAH RPN METRO/F [AHRM]",
+      "storename": " ALAMSYAH RPN METRO/F [AHRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L026",
-      "storename": "AH. NASUTION [L_AHN]",
+      "storename": " AH. NASUTION [L_AHN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L525",
-      "storename": "AH. NASUTION FRC/F [AHNF]",
+      "storename": " AH. NASUTION FRC/F [AHNF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VV8",
-      "storename": "BANJAR REJO/F [BANRE]",
+      "storename": " BANJAR REJO/F [BANRE]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -7878,78 +7872,78 @@
     },
     {
       "storecode": "1VU3",
-      "storename": "VETERAN METRO/F [VTRO]",
+      "storename": " VETERAN METRO/F [VTRO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L040",
-      "storename": "PATIMURA LAMPUNG [L_PTMR]",
+      "storename": " PATIMURA LAMPUNG [L_PTMR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VL8",
-      "storename": "PURWOSARI/F [PUSR]",
+      "storename": " PURWOSARI/F [PUSR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM8",
-      "storename": "PURWOASRI METRO [PWAI]",
+      "storename": " PURWOASRI METRO [PWAI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L289",
-      "storename": "DR SUTOMO METRO [DRSM]",
+      "storename": " DR SUTOMO METRO [DRSM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V61",
-      "storename": "DR. SUTOMO 2 METRO [DST2M]",
+      "storename": " DR. SUTOMO 2 METRO [DST2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L028",
-      "storename": "IMAM BONJOL [L_IMBL]",
+      "storename": " IMAM BONJOL [L_IMBL]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V85",
-      "storename": "IMAM BONJOL 2 METRO/F [IB2M]",
+      "storename": " IMAM BONJOL 2 METRO/F [IB2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L291",
-      "storename": "DIPONEGORO METRO [DPGM]",
+      "storename": " DIPONEGORO METRO [DPGM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L023",
-      "storename": "SUKARSO LAMPUNG [L_SKRO]",
+      "storename": " SUKARSO LAMPUNG [L_SKRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L052",
-      "storename": "RADEN INTAN LPG [RDIN]",
+      "storename": " RADEN INTAN LPG [RDIN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L446",
-      "storename": "WOLTER MONGINSIDIMTR [WMTR]",
+      "storename": " WOLTER MONGINSIDIMTR [WMTR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
-      "storecode": "K942",
+      "storecode": "k942",
       "storename": "MELAYU KECIL [MYUK]",
       "storebranch": "KZ01",
       "flagroute": "K930"
@@ -8204,67 +8198,67 @@
     },
     {
       "storecode": "L075",
-      "storename": "JL. JEMB. SERONG [JBSR]",
+      "storename": " JL. JEMB. SERONG [JBSR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L113",
-      "storename": "NEGERI KATON [NGKN]",
+      "storename": " NEGERI KATON [NGKN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L112",
-      "storename": "MENGANDUNG SARI [MGSI]",
+      "storename": " MENGANDUNG SARI [MGSI]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L059",
-      "storename": "PUGUNG RAHARJO [PGRO]",
+      "storename": " PUGUNG RAHARJO [PGRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L543",
-      "storename": "IR. SUTAMI [IRS1]",
+      "storename": " IR. SUTAMI [IRS1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VK8",
-      "storename": "KSB SIDOREJO/F [KSSJ]",
+      "storename": " KSB SIDOREJO/F [KSSJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L106",
-      "storename": "PASAR SIDOREJO [PSSO]",
+      "storename": " PASAR SIDOREJO [PSSO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L388",
-      "storename": "SEKAMPUNG [SKPG]",
+      "storename": " SEKAMPUNG [SKPG]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L480",
-      "storename": "BATANG HARI 2 [BTH2]",
+      "storename": " BATANG HARI 2 [BTH2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VU9",
-      "storename": "RAYA SEKAMPUNG [RSKU]",
+      "storename": " RAYA SEKAMPUNG [RSKU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -8560,79 +8554,79 @@
     },
     {
       "storecode": "L500",
-      "storename": "SUKADANA LAMTIM [SKL1]",
+      "storename": " SUKADANA LAMTIM [SKL1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN6",
-      "storename": "SUKADANA 2/F [SUKN]",
+      "storename": " SUKADANA 2/F [SUKN]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VL1",
-      "storename": "MATARAM MARGA [MRMG]",
+      "storename": " MATARAM MARGA [MRMG]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V05",
-      "storename": "SUKADANA TENGAH",
+      "storename": " SUKADANA TENGAH",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L473",
-      "storename": "PAKUAN AJI ( FRC )/F [PKA1]",
+      "storename": " PAKUAN AJI ( FRC )/F [PKA1]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L086",
-      "storename": "PSR TRIDATU [PSDT]",
+      "storename": " PSR TRIDATU [PSDT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L065",
-      "storename": "WAY JEPARA [WJR]",
+      "storename": " WAY JEPARA [WJR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L481",
-      "storename": "WAY JEPARA 5 [WJP5]",
+      "storename": " WAY JEPARA 5 [WJP5]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L295",
-      "storename": "MERDEKA WAY JEPARA [MKWJ]",
+      "storename": " MERDEKA WAY JEPARA [MKWJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L386",
-      "storename": "WAY JEPARA 3 [WYJ3]",
+      "storename": " WAY JEPARA 3 [WYJ3]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V99",
-      "storename": "ADIREJO [ADJO]",
+      "storename": " ADIREJO [ADJO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L051",
-      "storename": "PEKALONGAN LPG [PKLN]",
+      "storename": " PEKALONGAN LPG [PKLN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -8922,73 +8916,73 @@
     },
     {
       "storecode": "1V58",
-      "storename": "TEMPURAN [TMPR]",
+      "storename": " TEMPURAN [TMPR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L037",
-      "storename": "GANJAR AGUNG [L_GJA]",
+      "storename": " GANJAR AGUNG [L_GJA]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L041",
-      "storename": "SOEKARNO HATTA - LPG [L_SRHT]",
+      "storename": " SOEKARNO HATTA - LPG [L_SRHT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L549",
-      "storename": "SOEKARNO HATTA 2 MTR [SH2M]",
+      "storename": " SOEKARNO HATTA 2 MTR [SH2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V88",
-      "storename": "SOEKARNO HATTA 3 MTR/F [SH3M]",
+      "storename": " SOEKARNO HATTA 3 MTR/F [SH3M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VD7",
-      "storename": "BUDI UTOMO [BDTM]",
+      "storename": " BUDI UTOMO [BDTM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L067",
-      "storename": "MARGOTOTO [MGTT]",
+      "storename": " MARGOTOTO [MGTT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L292",
-      "storename": "YOS SUDARSO METRO [YSRM]",
+      "storename": " YOS SUDARSO METRO [YSRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VN8",
-      "storename": "YOS SUDARSO 2 METRO [YSSM]",
+      "storename": " YOS SUDARSO 2 METRO [YSSM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L047",
-      "storename": "JL.RIYACHUDU - LPG [L_RHU]",
+      "storename": " JL.RIYACHUDU - LPG [L_RHU]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V93",
-      "storename": "JENSUD METRO [JSMT]",
+      "storename": " JENSUD METRO [JSMT]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VV9",
-      "storename": "LINTAS GANJAR AGUNG/F [LAJAR]",
+      "storename": " LINTAS GANJAR AGUNG/F [LAJAR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -9278,73 +9272,73 @@
     },
     {
       "storecode": "L428",
-      "storename": "JEN-SUD BANDAR JAYA [JSBJ]",
+      "storename": " JEN-SUD BANDAR JAYA [JSBJ]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VO4",
-      "storename": "KSB MASJID ISTIQLAL/F [KMJI]",
+      "storename": " KSB MASJID ISTIQLAL/F [KMJI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L114",
-      "storename": "YUKUM JAYA [YMJY]",
+      "storename": " YUKUM JAYA [YMJY]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VS1",
-      "storename": "KSO YOGI MART/F [KSYM]",
+      "storename": " KSO YOGI MART/F [KSYM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L119",
-      "storename": "YUKUM JAYA 2 [YJY2]",
+      "storename": " YUKUM JAYA 2 [YJY2]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V02",
-      "storename": "YUKUM JAYA 3 [YJA3]",
+      "storename": " YUKUM JAYA 3 [YJA3]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L282",
-      "storename": "A YANI PONCOWATI [AYPC]",
+      "storename": " A YANI PONCOWATI [AYPC]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VR2",
-      "storename": "KSO FF MART/F [KSFM]",
+      "storename": " KSO FF MART/F [KSFM]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1V21",
-      "storename": "SEPUTIH JAYA [SPJY]",
+      "storename": " SEPUTIH JAYA [SPJY]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L107",
-      "storename": "GUNUNG SUGIH [GNSH]",
+      "storename": " GUNUNG SUGIH [GNSH]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V35",
-      "storename": "PUNGGUR [PGGR]",
+      "storename": " PUNGGUR [PGGR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L025",
-      "storename": "RAYA PUNGGUR [L_RYPR]",
+      "storename": " RAYA PUNGGUR [L_RYPR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
@@ -9622,73 +9616,73 @@
     },
     {
       "storecode": "L024",
-      "storename": "A. YANI METRO [L_AYMT]",
+      "storename": " A. YANI METRO [L_AYMT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L335",
-      "storename": "A YANI 2 METRO [AY2M]",
+      "storename": " A YANI 2 METRO [AY2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L579",
-      "storename": "A. YANI 3 METRO FRC/F [A3MT]",
+      "storename": " A. YANI 3 METRO FRC/F [A3MT]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V96",
-      "storename": "IRING MULYO [IRMO]",
+      "storename": " IRING MULYO [IRMO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VU4",
-      "storename": "KSO SPBU TEJOAGUNG/F [KPTJ]",
+      "storename": " KSO SPBU TEJOAGUNG/F [KPTJ]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM9",
-      "storename": "SUTAN SYAHRIR METRO [SSYR]",
+      "storename": " SUTAN SYAHRIR METRO [SSYR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L058",
-      "storename": "BATANGHARI LPG [BTHR]",
+      "storename": " BATANGHARI LPG [BTHR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L553",
-      "storename": "ALAMSYAH RPN 2 MTR [AR2M]",
+      "storename": " ALAMSYAH RPN 2 MTR [AR2M]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L564",
-      "storename": "ALAMSYAH RPN METRO/F [AHRM]",
+      "storename": " ALAMSYAH RPN METRO/F [AHRM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L026",
-      "storename": "AH. NASUTION [L_AHN]",
+      "storename": " AH. NASUTION [L_AHN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L525",
-      "storename": "AH. NASUTION FRC/F [AHNF]",
+      "storename": " AH. NASUTION FRC/F [AHNF]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VV8",
-      "storename": "BANJAR REJO/F [BANRE]",
+      "storename": " BANJAR REJO/F [BANRE]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
@@ -9930,73 +9924,73 @@
     },
     {
       "storecode": "1VU3",
-      "storename": "VETERAN METRO/F [VTRO]",
+      "storename": " VETERAN METRO/F [VTRO]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L040",
-      "storename": "PATIMURA LAMPUNG [L_PTMR]",
+      "storename": " PATIMURA LAMPUNG [L_PTMR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1VL8",
-      "storename": "PURWOSARI/F [PUSR]",
+      "storename": " PURWOSARI/F [PUSR]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "1VM8",
-      "storename": "PURWOASRI METRO [PWAI]",
+      "storename": " PURWOASRI METRO [PWAI]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L289",
-      "storename": "DR SUTOMO METRO [DRSM]",
+      "storename": " DR SUTOMO METRO [DRSM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V61",
-      "storename": "DR. SUTOMO 2 METRO [DST2M]",
+      "storename": " DR. SUTOMO 2 METRO [DST2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L028",
-      "storename": "IMAM BONJOL [L_IMBL]",
+      "storename": " IMAM BONJOL [L_IMBL]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "1V85",
-      "storename": "IMAM BONJOL 2 METRO/F [IB2M]",
+      "storename": " IMAM BONJOL 2 METRO/F [IB2M]",
       "storebranch": "1VZ1",
       "flagroute": "1V93"
     },
     {
       "storecode": "L291",
-      "storename": "DIPONEGORO METRO [DPGM]",
+      "storename": " DIPONEGORO METRO [DPGM]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L023",
-      "storename": "SUKARSO LAMPUNG [L_SKRO]",
+      "storename": " SUKARSO LAMPUNG [L_SKRO]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L052",
-      "storename": "RADEN INTAN LPG [RDIN]",
+      "storename": " RADEN INTAN LPG [RDIN]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
     {
       "storecode": "L446",
-      "storename": "WOLTER MONGINSIDIMTR [WMTR]",
+      "storename": " WOLTER MONGINSIDIMTR [WMTR]",
       "storebranch": "1VZ1",
       "flagroute": "L609"
     },
